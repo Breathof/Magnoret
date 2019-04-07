@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E401281B-E92C-6B1D-D7BE-3B8A21FB5CE9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scrips/GameManager.cs" Line="195" Column="63" />
+      <File FileName="Assets/Scrips/PlayerController.cs" Line="124" Column="30" />
+      <File FileName="Assets/Scrips/EnemyController.cs" Line="38" Column="17" />
+      <File FileName="Assets/Scrips/Input/Factory.cs" Line="2" Column="23" />
+      <File FileName="Assets/Scrips/Input/IInput.cs" Line="2" Column="23" />
+      <File FileName="Assets/Scrips/Input/Keyboard.cs" Line="4" Column="23" />
+      <File FileName="Assets/Scrips/Input/TouchScreen.cs" Line="4" Column="23" />
+      <File FileName="Assets/Scrips/FPSDisplay.cs" Line="25" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Magnoret" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scrips" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="91724cd1-4c24-4b9c-90b0-682d94d5cd29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
